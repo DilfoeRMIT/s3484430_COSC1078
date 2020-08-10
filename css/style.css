@@ -30,7 +30,7 @@ Author: themehippo.com
 10. Portfolio / .portfolio-section
 11. Recent Reviews / .review-section
 12. Contact / .section-contact
-13. footer 
+13. footer
 
 ------------------------------------*/
 
@@ -294,38 +294,6 @@ button:focus,
     .header{
         padding: 20px;
         }
-    }
-
-
-    /*-------------------
-     * Social Icon
-     *-------------------*/
-
-.social-icon {
-    margin  : 20px 0;
-    padding : 0;
-    display : block;
-    }
-
-.social-icon li {
-    display : inline-block;
-    margin  : 0 2px;
-    }
-
-.social-icon li a {
-    display       : block;
-    font-size     : 12px;
-    color         : #333333;
-    width         : 34px;
-    height        : 34px;
-    line-height   : 33px;
-    text-align    : center;
-    border-radius : 2px;
-    border        : 2px solid #eeeeee;
-    }
-
-.social-icon li a:hover {
-    border-color : #cccccc;
     }
 
 
